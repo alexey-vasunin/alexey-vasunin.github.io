@@ -105,6 +105,8 @@ a:active {
 
 .csgo, 
 .other_hammer_stuff {
+	padding-left: 40px;
+	padding-top: 10px;
 	width: 95%;
 	height: 180px;
 	border: 2px dotted lightgray;
@@ -117,14 +119,12 @@ a:active {
 	font-family: "Tahoma";
 	font-size: 16px;
 	color: blue;
-	padding-bottom: 10px;
-	padding-top: 10px;
 }
 
 .csgo img,
 .other_hammer_stuff img {
 	width: 150px;
-	margin-right: 40px;
+	margin-right: 60px;
 }
 
 .csgo img:last-child,
