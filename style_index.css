@@ -108,7 +108,7 @@ a:active {
 	padding-left: 40px;
 	padding-top: 10px;
 	width: 95%;
-	height: 180px;
+	height: 170px;
 	border: 2px dotted lightgray;
 	background-color: white;
 	border-radius: 10px;
@@ -116,6 +116,7 @@ a:active {
 
 .csgo span,
 .other_hammer_stuff span {
+	margin-bottom: 10px;
 	font-family: "Tahoma";
 	font-size: 16px;
 	color: blue;
