@@ -105,6 +105,7 @@ a:active {
 
 .csgo, 
 .other_hammer_stuff {
+	margin-bottom: 10px;
 	padding-left: 40px;
 	padding-top: 10px;
 	width: 95%;
