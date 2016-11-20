@@ -70,7 +70,8 @@ a:active {
 	border-left: 15px solid #00BFFF;
 	width: 200px;
 	height: 820px;
-	background-image: url("grey_tissue.jpg");
+	background-color:white;
+	box-shadow: inset 10 -5 5 lightgray;
 	color: white;
 	text-align: center;
 }
