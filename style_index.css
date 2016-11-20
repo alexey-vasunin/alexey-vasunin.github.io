@@ -1,6 +1,6 @@
 body {
 	background-image: url("BackgroundS.jpg");
-	background-position: fixed;
+	background-attachment: fixed;
 	margin: 0px;
 	font-family: "PT Sans", sans-serif;
 }
