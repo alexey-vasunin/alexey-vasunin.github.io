@@ -14,7 +14,7 @@ h1 {
 ul {
 	list-style-type: none;
 	color: blue;
-	opacity: 1.0 !important; /*Чтобы не наследовал прозрачность родителя*/
+
 }
 
 .cool_quote {
@@ -25,19 +25,16 @@ ul {
 }
 
 h2 {
-	opacity: 1.0 !important; /*Чтобы не наследовал прозрачность родителя*/
 	font-size: 22px;
 	font-weight: bold;
 }
 
 .a {
-	opacity: 1.0 !important; /*Чтобы не наследовал прозрачность родителя*/
 	color: #F0FFF0;
 }
 
 .a:hover,
 a:hover {
-	opacity: 1.0 !important; /*Чтобы не наследовал прозрачность родителя*/
 	color: red;
 	cursor:pointer;	
 }
@@ -76,7 +73,7 @@ a:active {
 
 .side_menu {
 	float: left;
-	opacity: 0.6;
+	opacity: 0.9;
 	margin-top: 5px;
 	margin-left: 10px;
 	border: 1px solid lightgray;
@@ -96,7 +93,6 @@ a:active {
 }
 
 .side_menu .weather {
-	opacity: 1.0 !important; /*Чтобы не наследовал прозрачность родителя*/
 	margin-top: 530px;
 }
 
