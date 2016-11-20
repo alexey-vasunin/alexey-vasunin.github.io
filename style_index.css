@@ -106,7 +106,7 @@ a:active {
 .csgo, 
 .other_hammer_stuff {
 	width: 95%;
-	height: 200px;
+	height: 180px;
 	border: 2px dotted lightgray;
 	background-color: white;
 	border-radius: 10px;
@@ -117,8 +117,8 @@ a:active {
 	font-family: "Tahoma";
 	font-size: 16px;
 	color: blue;
-	margin-bottom: 20px;
-	margin-top: 20px;
+	padding-bottom: 10px;
+	padding-top: 10px;
 }
 
 .csgo img,
