@@ -71,8 +71,8 @@ a:active {
 	width: 200px;
 	height: 820px;
 	background-color:white;
-	box-shadow: inset 10 -5 5 lightgray;
-	color: white;
+	box-shadow: inset 10 -5;
+	color: blue;
 	text-align: center;
 }
 
