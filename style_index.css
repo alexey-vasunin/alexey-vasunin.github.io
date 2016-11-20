@@ -102,5 +102,28 @@ a:active {
 	border-left: 4px solid #00BFFF;
 	padding: 10px;
 }
+
+.csgo {
+	width: 85%;
+	height: 300px;
+	border: 2px dashed lightgray;
+}
+
+.other_hammer_stuff {
+	width: 85%;
+	height: 300px;
+	border: 2px dashed lightgray;
+}
+
+.csgo img,
+.other_hammer_stuff img {
+	width: 100px;
+	margin-right: 40px;
+}
+
+.csgo img:last-child,
+.other_hammer_stuff img:last-child {
+	margin-right: 0px;
+}
 	
 	
