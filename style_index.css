@@ -16,7 +16,7 @@ ul {
 	color: blue;
 }
 
-p ul li {
+.main ul{
 	list-style-type: circle;
 	color: blue;
 }
