@@ -14,7 +14,11 @@ h1 {
 ul {
 	list-style-type: none;
 	color: blue;
+}
 
+p ul {
+	list-style-type: circle;
+	color: blue;
 }
 
 .cool_quote {
