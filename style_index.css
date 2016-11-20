@@ -103,21 +103,27 @@ a:active {
 	padding: 10px;
 }
 
-.csgo {
-	width: 85%;
-	height: 300px;
-	border: 2px dashed lightgray;
+.csgo 
+.other_hammer_stuff {
+	width: 95%;
+	height: 200px;
+	border: 2px dotted lightgray;
+	background-color: white;
+	border-radius: 10px;
 }
 
-.other_hammer_stuff {
-	width: 85%;
-	height: 300px;
-	border: 2px dashed lightgray;
+.csgo span
+.other_hammer_stuff span {
+	font-family: "Tahoma";
+	font-size: 16px;
+	color: blue;
+	margin-bottom: 20px;
+	margin-top: 20px;
 }
 
 .csgo img,
 .other_hammer_stuff img {
-	width: 100px;
+	width: 150px;
 	margin-right: 40px;
 }
 
