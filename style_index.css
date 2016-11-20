@@ -103,7 +103,7 @@ a:active {
 	padding: 10px;
 }
 
-.csgo 
+.csgo, 
 .other_hammer_stuff {
 	width: 95%;
 	height: 200px;
@@ -112,7 +112,7 @@ a:active {
 	border-radius: 10px;
 }
 
-.csgo span
+.csgo span,
 .other_hammer_stuff span {
 	font-family: "Tahoma";
 	font-size: 16px;
