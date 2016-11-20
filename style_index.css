@@ -72,7 +72,7 @@ a:active {
 
 .side_menu {
 	float: left;
-	opacity: 0.6 !important;
+	opacity: 0.6;
 	margin-top: 5px;
 	margin-left: 10px;
 	border: 1px solid lightgray;
@@ -108,7 +108,7 @@ a:active {
 	margin-bottom: 10px;
 	padding-left: 40px;
 	padding-top: 10px;
-	width: 95%;
+	width: 90%;
 	height: 170px;
 	border: 2px dotted lightgray;
 	background-color: white;
@@ -117,7 +117,6 @@ a:active {
 
 .csgo span,
 .other_hammer_stuff span {
-	margin-bottom: 10px;
 	font-family: "Tahoma";
 	font-size: 16px;
 	color: blue;
@@ -125,6 +124,7 @@ a:active {
 
 .csgo img,
 .other_hammer_stuff img {
+	margin-top: 10px;
 	width: 150px;
 	margin-right: 60px;
 }
