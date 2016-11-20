@@ -1,0 +1,11 @@
+body {
+  background-color: lightcyan;
+}
+
+.header {
+  float:left;
+  width: 800 px;
+  height: 15 %;
+  background-color: black;
+  color: white;
+}
