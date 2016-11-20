@@ -11,7 +11,8 @@ h1 {
 }
 
 ul {
-	list-style-type: none
+	list-style-type: none;
+	color: blue;
 }
 
 .cool_quote {
@@ -26,15 +27,17 @@ h2 {
 	font-weight: bold;
 }
 
-a {
+.a {
 	color: #F0FFF0;
 }
 
+.a:hover,
 a:hover {
 	color: #FFF8DC;
 	cursor:pointer;	
 }
 
+.a:active,
 a:active {
 	color: #191970;
 }
@@ -74,7 +77,6 @@ a:active {
 	border-left: 15px solid #00BFFF;
 	width: 200px;
 	height: 820px;
-	background-image: url("grey_tissue.jpg");
 	background-color:white;
 	box-shadow: inset 10 -5;
 	color: blue;
