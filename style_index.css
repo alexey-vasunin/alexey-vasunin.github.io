@@ -36,10 +36,15 @@ a {
 	color: #00BFFF;
 }
 
-.a:hover,
+.a:hover {
+	color: red;
+	cursor:pointer;		
+}
+
 a:hover {
 	color: red;
 	cursor:pointer;	
+	padding-left:80px;
 }
 
 /*.a:visited {
