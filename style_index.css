@@ -44,7 +44,7 @@ a {
 a:hover {
 	color: red;
 	cursor:pointer;	
-	padding-left:80px;
+	padding-left:30px;
 }
 
 /*.a:visited {
