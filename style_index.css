@@ -97,21 +97,25 @@ a:visited {
 	text-align: center;
 }
 
-.side_menu ul li {
-	float:left;
-	text-align: left;
-	border-bottom: 1px solid #FFE4E1;
-	padding: 6px;
-}
-
 .side_menu .weather {
 	margin-top: 530px;
 }
 
+a .menu_link_a {
+	padding: 0px;
+}
+
 .menu_option {
+	background-color: white;
 	border: 1px solid black;
-	width:95%;
+	width:99%;
 	height:50px;
+	text-align: center;
+	vertical-align: center;
+}
+
+.menu_option:hover {
+	margin-left: 20px;
 }
 
 .main {
