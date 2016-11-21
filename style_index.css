@@ -108,6 +108,12 @@ a:visited {
 	margin-top: 530px;
 }
 
+.menu_option {
+	border: 1px solid black;
+	width:95%;
+	height:50px;
+}
+
 .main {
 	margin-top: 5px;
 	float:right;
