@@ -29,13 +29,25 @@ h2 {
 }
 
 .a {
-	color: #F0FFF0;
+	color: white;
+}
+
+a {
+	color: #00BFFF;
 }
 
 .a:hover,
 a:hover {
 	color: red;
 	cursor:pointer;	
+}
+
+.a:visited {
+	color: white;
+}
+
+a:visited {
+	color: #00BFFF;		
 }
 
 .a:active,
