@@ -42,18 +42,13 @@ a:hover {
 	cursor:pointer;	
 }
 
-.a:visited {
+/*.a:visited {
 	color: white;
 }
 
 a:visited {
 	color: #00BFFF;		
-}
-
-.a:active,
-a:active {
-	color: #191970;
-}
+}*/
 
 .header {
 	width:100%;
