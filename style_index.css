@@ -109,7 +109,7 @@ a .menu_link_a {
 }
 
 .menu_option>span {
-	vertical-align: middle;
+	vertical-align: 50%;
 	font-family: "Lucida Console", fantasy;
 	font-size: 18px;
 	color: #191970;
