@@ -129,6 +129,28 @@ a .menu_link_a {
 	margin-left: 20px;
 }
 
+.icon {
+    display: inline-block;
+    width: 15px;
+    height: 15px;
+    margin: 0 5px;
+    vertical-align: bottom;
+    background: url("images/sprites.png") no-repeat;
+    box-shadow: 0 0 0 2px rgba(255, 255, 255, 0.2);
+}
+
+.icon-1 {
+	background-position: 0px -24px;
+}
+
+.icon-2 {
+	background-position: -456px -48px;
+}
+
+.icon-3 {
+	background-position: -120px -120px;
+}
+
 .main {
 	margin-top: 5px;
 	float:right;
