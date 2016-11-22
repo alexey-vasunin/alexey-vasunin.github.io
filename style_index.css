@@ -118,7 +118,7 @@ a .menu_link_a {
 	height: 50px;
 }
 	
-.menu_option {
+/*.menu_option {
 	background-color: white;
 	border-right: 1px solid lightgray;
 	border-bottom: 1px solid lightgray;
@@ -131,10 +131,9 @@ a .menu_link_a {
 	font-family: "Georgia", fantasy;
 	font-size: 18px;
 	color: #00BFFF;
-}
+}*/
 
-.menu_option:hover,
-.menu_option div:hover{
+.testing:hover {
 	color: red;
 	margin-left: 20px;
 }
