@@ -33,7 +33,7 @@ h2 {
 }
 
 a {
-	color: #00BFFF;
+	color: white;
 	text-decoration: none;
 }
 
@@ -104,19 +104,19 @@ a:visited {
 	margin-top: 370px;
 }
 
-a .menu_link_a {
+/*a .menu_link_a {
 	cursor:pointer;
 	padding: 0px;
-}
+}*/
 
 .testing {
 	display: block;
-	/*padding: 10px;*/
+	padding: 10px;
 	background-color: white;
 	border-right: 1px solid lightgray;
 	border-bottom: 1px solid lightgray;
 	border-radius: 10px;
-	width: 100%;
+	width: 90%;
 	height: 50px;
 	font-size: 18px;
 }
