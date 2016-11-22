@@ -116,25 +116,10 @@ a .menu_link_a {
 	border-right: 1px solid lightgray;
 	border-bottom: 1px solid lightgray;
 	border-radius: 10px;
-	width: 90%;
+	width: 200px;
 	height: 50px;
 	font-size: 18px;
 }
-	
-/*.menu_option {
-	background-color: white;
-	border-right: 1px solid lightgray;
-	border-bottom: 1px solid lightgray;
-	border-radius: 10px;
-	width: 100%;
-	height: 50px;
-}
-
-.menu_option div{
-	font-family: "Georgia", fantasy;
-	font-size: 18px;
-	color: #00BFFF;
-}*/
 
 .testing:hover {
 	color: red;
