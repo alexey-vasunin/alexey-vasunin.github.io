@@ -123,8 +123,9 @@ a .menu_link_a {
 	color: #00BFFF;
 }
 
-.menu_option:hover {
-	color: red !inherit;
+.menu_option:hover,
+.menu_option div:hover{
+	color: red;
 	margin-left: 20px;
 }
 
