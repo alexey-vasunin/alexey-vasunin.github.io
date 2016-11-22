@@ -162,6 +162,15 @@ a .menu_link_a {
 	background-position: -120px -120px;
 }
 
+.icon-4 {
+	background-position: -144px -72px;
+}
+
+.icon-5 {
+	background-position: -168px 0px;
+}
+	
+
 .main {
 	margin-top: 5px;
 	float:right;
