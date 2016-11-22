@@ -111,7 +111,7 @@ a .menu_link_a {
 
 .testing {
 	display: block;
-	padding: 20px auto;
+	padding: 20px;
 	background-color: white;
 	border-right: 1px solid lightgray;
 	border-bottom: 1px solid lightgray;
@@ -130,7 +130,7 @@ a .menu_link_a {
     display: inline-block;
     width: 15px;
     height: 15px;
-    margin-left: 0 5px;
+    margin-left: 0 10px;
     vertical-align: bottom;
     background: url("images/sprites.png") no-repeat;
     box-shadow: 0 0 0 2px rgba(255, 255, 255, 0.2);
