@@ -130,11 +130,11 @@ a .menu_link_a {
 }
 
 .icon {
-    display: inline-block;
+    /*display: inline-block;*/
     width: 15px;
     height: 15px;
     margin: 0 5px;
-    vertical-align: bottom;
+    /*vertical-align: bottom;*/
     background: url("images/sprites.png") no-repeat;
     box-shadow: 0 0 0 2px rgba(255, 255, 255, 0.2);
 }
