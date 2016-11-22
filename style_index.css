@@ -111,7 +111,7 @@ a .menu_link_a {
 
 .testing {
 	display: block;
-	padding: auto;
+	padding: 10 px auto;
 	background-color: white;
 	border-right: 1px solid lightgray;
 	border-bottom: 1px solid lightgray;
