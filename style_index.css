@@ -109,9 +109,9 @@ a .menu_link_a {
 }
 
 .menu_option {
-    	/*display: table-cell;*/
+    	display: table-cell;
     	vertical-align: middle;
-    	position: relative;
+    	/*position: relative;*/
 	background-color: white;
 	border-right: 1px solid lightgray;
 	border-bottom: 1px solid lightgray;
