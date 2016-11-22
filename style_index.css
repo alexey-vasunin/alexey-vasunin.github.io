@@ -108,7 +108,9 @@ a .menu_link_a {
 	padding: 0px;
 }
 
-.menu_option>span {
+.menu_option div{
+    	position: absolute;
+    	top: 50%;
 	display: table-cell;
 	text-align: center;
 	vertical-align: middle;
@@ -118,6 +120,9 @@ a .menu_link_a {
 }
 
 .menu_option {
+    	display: table-cell;
+    	vertical-align: middle;
+    	position: relative;
 	background-color: white;
 	border-right: 1px solid lightgray;
 	border-bottom: 1px solid lightgray;
