@@ -111,13 +111,14 @@ a .menu_link_a {
 .menu_option>span {
 	text-align: center;
 	vertical-align: middle;
-	display: table-cell;
+	/*display: table-cell;*/
 	font-family: "Georgia", fantasy;
 	font-size: 18px;
 	color: #191970;
 }
 
 .menu_option {
+	display: table-cell;
 	background-color: white;
 	border-right: 1px solid lightgray;
 	border-bottom: 1px solid lightgray;
