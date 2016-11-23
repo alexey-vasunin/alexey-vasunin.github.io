@@ -204,14 +204,15 @@ a:visited,
 form[name="email"] {
 	display:block;
 	border: 2px dashed lightgray;
-	width: 70%;
+	width: 90%;
+	padding-left: auto;
 	height: 400px;
 }
 
 input[type="text"],
 input[type="textarea"] {
-	width:60%;
-	margin-top: 30px;
+	width:90%;
+	margin-top: 20px;
 	border: 2px solid black;
 	border-radius: 5px;
 }
