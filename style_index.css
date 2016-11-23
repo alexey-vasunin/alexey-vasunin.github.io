@@ -38,6 +38,11 @@ a:hover {
 	cursor:pointer;		
 }
 
+a:visited,
+.menu_link_a:visited {
+	color:blue;
+}
+
 .header {
 	width:100%;
 	height:82px;
