@@ -212,7 +212,7 @@ form[name="email"] {
 input[type="text"],
 input[type="textarea"] {
 	width:80%;
-	margin-left: 60px;
+	margin-left: auto;
 	margin-top: 20px;
 	border: 2px solid black;
 	border-radius: 5px;
