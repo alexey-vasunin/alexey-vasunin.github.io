@@ -206,7 +206,7 @@ form[name="email"] {
 	border: 2px dashed lightgray;
 	width: 90%;
 	padding-left: auto;
-	height: 400px;
+	height: 300px;
 }
 
 input[type="text"],
@@ -217,6 +217,6 @@ input[type="textarea"] {
 	border-radius: 5px;
 }
 
-input:active {
+input:focus {
 	border: 2px solid green;
 }
