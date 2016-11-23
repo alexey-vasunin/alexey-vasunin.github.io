@@ -102,7 +102,7 @@ a:visited {
 }
 
 .side_menu .weather {
-	margin-top: 370px;
+	margin-top: 320px;
 }
 
 a .menu_link_a {
@@ -120,11 +120,12 @@ a .menu_link_a {
 	width: 200px;
 	/*height: 50px;*/
 	font-size: 16px;
+	text-decoration: none;
 }
 
 .testing:hover {
 	color: red;
-	margin-left: 20px;
+	margin-left: 18px;
 }
 
 .icon {
