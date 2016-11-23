@@ -209,8 +209,19 @@ form[name="email"] {
 	height: 300px;
 }
 
-input[type="text"],
-input[type="textarea"] {
+textarea {
+	width:80%;
+	margin-left: auto;
+	margin-top: 20px;
+	border: 2px solid black;
+	border-radius: 5px
+}
+
+textarea:focus {
+	border: 2px solid green;
+}
+
+input[type="text"] {
 	width:80%;
 	margin-left: auto;
 	margin-top: 20px;
