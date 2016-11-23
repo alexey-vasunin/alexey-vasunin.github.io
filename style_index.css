@@ -144,8 +144,23 @@ a:visited,
 .icon-5 {
 	background-position: -168px 0px;
 }
-	
 
+.icon-6 {
+	background-position: -408px -24px;
+}
+
+.icon-7 {
+	background-position: -168px 0px;
+}
+
+.icon-8 {
+	background-position: -360px -24px;
+}
+
+.icon-9 {
+	background-position: -96px 0px;
+}
+	
 .main {
 	margin-top: 5px;
 	float:right;
