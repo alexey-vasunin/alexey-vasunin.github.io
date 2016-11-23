@@ -49,10 +49,19 @@
 			<span class="icon icon-9"></span>
 			Либо оставить сообщение на электронную почту: <br>
 			<form action="email.php" method="post" name="email">
-				<label>Получатель: <input type="text" name="my_email" value="alex-vas2013@mail.ru" disabled></label>
-				<label>Ваш E-mail: <input type="text" name="user_email"></label>
-				<label>Сообщение: <input type="textarea" name="message" rows="8"></label>
-				<input type="submit" value="Отправить!">	
+				<label>Получатель: 
+					<input type="text" name="my_email" value="alex-vas2013@mail.ru" disabled></label><br>
+				<label>Ваш E-mail: <input type="text" name="user_email"></label><br>
+				<label>Сообщение: <input type="textarea" name="message" rows="8"></label><br>
+				<label>Когда с Вами лучше связаться?
+					<select>
+						<option value="7_10">7:00-10:00</option>
+						<option value="10_13">10:00-13:00</option>
+						<option value="14_18">14:00-18:00</option>
+						<option value="18-21">18:00-21:00</option>
+						<option value="21_0">21:00-0:00</option>
+					</select>
+				<input type="submit" value="Отправить!">
 			</form>	
 		</div>
 	</body>
