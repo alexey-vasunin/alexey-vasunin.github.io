@@ -108,6 +108,7 @@ a:visited {
 a .menu_link_a {
 	cursor:pointer;
 	padding: 0px;
+	text-decoration: none;
 }
 
 .testing {
