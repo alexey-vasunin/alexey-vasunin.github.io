@@ -200,3 +200,20 @@ a:visited,
 .other_hammer_stuff img:last-child {
 	margin-right: 0px;
 }
+
+.email {
+	border: 2px dashed lightgray;
+	width: 70%;
+	height: 400px;
+}
+
+.email input {
+	width:60%;
+	margin-top: 30px;
+	border: 2px solid black;
+	border-radius: 5px;
+}
+
+.email input:hover {
+	border: 2px solid green;
+}
