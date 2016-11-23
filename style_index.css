@@ -201,7 +201,8 @@ a:visited,
 	margin-right: 0px;
 }
 
-form[name="email"]{
+form[name="email"] {
+	display:block;
 	border: 2px dashed lightgray;
 	width: 70%;
 	height: 400px;
