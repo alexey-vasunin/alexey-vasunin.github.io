@@ -233,3 +233,7 @@ input[type="text"] {
 input:focus {
 	border: 2px solid green;
 }
+
+label textarea {
+	vertical-align: middle;
+}
