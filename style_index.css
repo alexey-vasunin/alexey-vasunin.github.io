@@ -236,4 +236,5 @@ input:focus {
 
 label textarea {
 	vertical-align: top;
+	margin-top: 20px;
 }
