@@ -251,7 +251,12 @@ label textarea {
 	border-radius: 8px;
 }
 
+.layout_header {
+	width: 90%;
+}
+
 .layout_basic {
+	width: 90%;
 	background-color: #FFFFCC;
 	height: 150px;
 	border: 1px solid #333333;
@@ -261,6 +266,7 @@ label textarea {
 }
 
 .layout_standard {
+	width: 90%;
 	background-color: #FFFF99;
 	height: 150px;
 	border: 1px solid #333333;
@@ -279,6 +285,7 @@ label textarea {
 }
 
 .layout_max {
+	width: 90%;
 	background-color: #FFFF33;
 	height: 150px;
 	border: 1px solid #333333;
@@ -289,11 +296,12 @@ label textarea {
 
 .string {
 	border-collapse: collapse;
-	width: 85%;
+	width: 100%;
 }
 
 .string td:first-child {
-	width:35%;
+	width:33%;
+	padding-left:2%;
 }
 
 .string td:last-child {
