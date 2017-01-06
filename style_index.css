@@ -257,7 +257,7 @@ label textarea {
 	border: 1px solid #333333;
 	border-radius: 4px;
 	margin-bottom:2%;
-	padding: 5%;
+	padding: 2%;
 }
 
 .layout_standard {
@@ -266,7 +266,7 @@ label textarea {
 	border: 1px solid #333333;
 	border-radius: 4px;
 	margin-bottom:2%;
-	padding: 5%;
+	padding: 2%;
 }
 
 .layout_advanced {
@@ -275,7 +275,7 @@ label textarea {
 	border: 1px solid #333333;
 	border-radius: 4px;
 	margin-bottom:2%;
-	padding: 5%;
+	padding: 2%;
 }
 
 .layout_max {
@@ -284,8 +284,9 @@ label textarea {
 	border: 1px solid #333333;
 	border-radius: 4px;
 	margin-bottom:2%;
-	padding: 5%;
+	padding: 2%;
 }
 
-.left_side {
+.string {
+	border-collapse: collapse;
 }
