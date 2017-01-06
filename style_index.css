@@ -75,6 +75,7 @@ a:visited,
 
 .side_menu {
 	position: fixed;
+	top: 88px;
 	display: block;
 	float: left;
 	opacity: 0.8;
@@ -92,6 +93,7 @@ a:visited,
 .side_menu .weather {
 	margin-top: 315px;
 	position: fixed;
+	left:10%;
 }
 
 .menu_link_a {
