@@ -314,3 +314,9 @@ label textarea {
 .string td:last-child {
 	width:15%
 }
+
+.string td {
+	color: black;
+	font-family: "Tahoma", sans-serif;
+	display: block;
+}
