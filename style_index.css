@@ -318,5 +318,5 @@ label textarea {
 .string td {
 	color: black;
 	font-family: "Tahoma", sans-serif;
-	display: block;
+	display: inline-block;
 }
