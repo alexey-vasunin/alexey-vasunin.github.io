@@ -241,3 +241,7 @@ input:focus {
 label textarea {
 	vertical-align: middle;
 }
+
+.price_layout {
+	width: 80%;
+}
