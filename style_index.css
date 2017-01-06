@@ -73,7 +73,7 @@ a:visited,
 }
 
 .side_menu {
-	position: fixed;
+	/*position: fixed;*/
 	top: 88px;
 	display: block;
 	float: left;
@@ -259,38 +259,43 @@ label textarea {
 
 .layout_basic {
 	width: 95%;
-	background-color: #FFFFCC;
+	background-color: #CCFFFF;
 	height: 150px;
 	border: 1px solid #333333;
 	border-radius: 4px;
 	margin-bottom:2%;
+	padding: 2%;
 }
 
 .layout_standard {
 	width: 95%;
-	background-color: #FFFF99;
+	background-color: #CCFFCC;
 	height: 150px;
 	border: 1px solid #333333;
 	border-radius: 4px;
 	margin-bottom:2%;
+	padding: 2%;
 }
 
 .layout_advanced {
 	width: 95%;
-	background-color: #FFFF66;
+	background-color: #CCFF99;
 	height: 150px;
 	border: 1px solid #333333;
 	border-radius: 4px;
 	margin-bottom:2%;
+	padding: 2%;
 }
 
 .layout_max {
 	width: 95%;
-	background-color: #FFFF33;
+	background-color: #CCFF66;
 	height: 150px;
 	border: 1px solid #333333;
 	border-radius: 4px;
 	margin-bottom:2%;
+	opacity: 0.9;
+	padding: 2%;
 }
 
 .string {
