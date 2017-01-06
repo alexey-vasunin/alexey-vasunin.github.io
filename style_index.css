@@ -254,6 +254,7 @@ label textarea {
 
 .layout_basic {
 	background-color: #FFFFCC;
+	height: 150px;
 	border: 1px solid #333333;
 	border-radius: 4px;
 	margin-bottom:3%;
@@ -262,6 +263,7 @@ label textarea {
 
 .layout_standard {
 	background-color: #FFFF99;
+	height: 150px;
 	border: 1px solid #333333;
 	border-radius: 4px;
 	margin-bottom:3%;
@@ -270,6 +272,7 @@ label textarea {
 
 .layout_advanced {
 	background-color: #FFFF66;
+	height: 150px;
 	border: 1px solid #333333;
 	border-radius: 4px;
 	margin-bottom:3%;
@@ -278,6 +281,7 @@ label textarea {
 
 .layout_max {
 	background-color: #FFFF33;
+	height: 150px;
 	border: 1px solid #333333;
 	border-radius: 4px;
 	margin-bottom:3%;
