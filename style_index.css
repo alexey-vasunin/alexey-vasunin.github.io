@@ -315,7 +315,7 @@ label textarea {
 	width:15%
 }
 
-.string td {
+.string td:nth-child(2) {
 	color: black;
 	font-family: "Tahoma", sans-serif;
 	display: inline-block;
