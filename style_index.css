@@ -244,5 +244,35 @@ label textarea {
 
 .price_layout {
 	width: 80%;
-	margin: 5%;
+	margin: 1%;
+	border: 1px dotted lightgray;
+	border-radius: 8px;
+}
+
+.layout_basic {
+	background-color: #FFFFCC;
+	border: 1px solid #333333;
+	border-radius: 4px;
+	margin:1%;
+}
+
+.layout_standard {
+	background-color: #99FF99;
+	border: 1px solid #333333;
+	border-radius: 4px;
+	margin:1%;
+}
+
+.layout_advanced {
+	background-color: #FF6633;
+	border: 1px solid #333333;
+	border-radius: 4px;
+	margin:1%;
+}
+
+.layout_max {
+	background-color: #FF3300;
+	border: 1px solid #333333;
+	border-radius: 4px;
+	margin:1%;
 }
