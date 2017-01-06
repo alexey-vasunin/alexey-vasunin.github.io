@@ -243,36 +243,37 @@ label textarea {
 }
 
 .price_layout {
-	width: 80%;
+	width: 90%;
 	margin: 1%;
-	border: 1px dotted lightgray;
+	border: 3px dotted lightgray;
 	border-radius: 8px;
+	border-collapse: collapse;
 }
 
 .layout_basic {
 	background-color: #FFFFCC;
 	border: 1px solid #333333;
 	border-radius: 4px;
-	margin:1%;
+	margin-bottom:3%;
 }
 
 .layout_standard {
-	background-color: #99FF99;
+	background-color: #FFFF99;
 	border: 1px solid #333333;
 	border-radius: 4px;
-	margin:1%;
+	margin-bottom:3%;
 }
 
 .layout_advanced {
-	background-color: #FF6633;
+	background-color: #FFFF66;
 	border: 1px solid #333333;
 	border-radius: 4px;
-	margin:1%;
+	margin-bottom:3%;
 }
 
 .layout_max {
-	background-color: #FF3300;
+	background-color: #FFFF33;
 	border: 1px solid #333333;
 	border-radius: 4px;
-	margin:1%;
+	margin-bottom:3%;
 }
