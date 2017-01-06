@@ -5,6 +5,11 @@ body {
 	font-family: "PT Sans", sans-serif;
 }
 
+p {
+	padding-left: 2%;
+	padding-right: 4%;
+}
+
 h1 {
 	font-family: "Webdings";
 	vertical-align:30px;
