@@ -28,6 +28,10 @@ ul {
 	color: cyan;
 }
 
+.my_photo {
+	margin-right: 2%;
+}
+
 h2 {
 	font-size: 22px;
 	font-weight: bold;
