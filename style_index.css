@@ -264,6 +264,7 @@ label textarea {
 	border: 1px solid #333333;
 	border-radius: 4px;
 	margin-bottom:2%;
+	opacity: 0.8;
 	padding: 2%;
 }
 
@@ -274,6 +275,7 @@ label textarea {
 	border: 1px solid #333333;
 	border-radius: 4px;
 	margin-bottom:2%;
+	opacity: 0.8;
 	padding: 2%;
 }
 
@@ -284,6 +286,7 @@ label textarea {
 	border: 1px solid #333333;
 	border-radius: 4px;
 	margin-bottom:2%;
+	opacity: 0.8;
 	padding: 2%;
 }
 
@@ -294,7 +297,7 @@ label textarea {
 	border: 1px solid #333333;
 	border-radius: 4px;
 	margin-bottom:2%;
-	opacity: 0.9;
+	opacity: 0.8;
 	padding: 2%;
 }
 
