@@ -290,3 +290,11 @@ label textarea {
 .string {
 	border-collapse: collapse;
 }
+
+.string td:first-child {
+	width:35%;
+}
+
+.string td:last-child {
+	width:20%
+}
