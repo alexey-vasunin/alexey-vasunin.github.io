@@ -1,3 +1,3 @@
-var Output;
-Output='Message 1';
-alert(Output);
+var Output, Promo;
+Promo=prompt("Вопрос?","Ответ");
+
