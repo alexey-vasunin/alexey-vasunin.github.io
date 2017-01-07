@@ -1,1 +1,3 @@
-console.log('This would be the main JS file.');
+var Output;
+Output='Message 1';
+alert(Output);
