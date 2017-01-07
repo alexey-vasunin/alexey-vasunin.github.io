@@ -1,3 +1,3 @@
 var Output, Promo;
-Promo=prompt("Вопрос?","Ответ");
-alert(Promo);
+Promo=prompt("Введите Ваше имя:","");
+alert("Здравствуйте"+Promo);
