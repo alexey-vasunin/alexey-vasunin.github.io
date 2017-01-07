@@ -1,3 +1,4 @@
-for(var i=2;i<11;i++) {
-  if(i%2==0) alert(i);
+var Input=0;
+while ((+Input<100)||(Input==null)) {
+  Input=prompt("Введите число", "");
 }
