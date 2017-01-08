@@ -59,7 +59,7 @@ a:hover {
 
 .menu_button:hover {
 	color: red;
-	opacity: 0;
+	box-shadow: -8px 8px rgba(0,0,0,0.5);
 }
 /*--------------------------ОБЩЕЕ----------------------*/
 
