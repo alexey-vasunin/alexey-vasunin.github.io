@@ -68,14 +68,14 @@ a:hover {
 .helper_div {
   float: right;
   width: 35%;
-  height:390px;
+  height:400px;
   padding-right: 10%;
   border: 2px solid red;
 }
 
 .new_me {
   float:bottom;
-  width:270px;
+  width:260px;
   border: 2px solid blue;
 }
 
