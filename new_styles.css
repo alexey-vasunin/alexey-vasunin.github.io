@@ -15,7 +15,7 @@ a:hover {
 	width:100%;
 	height:82px;
 	border-bottom: 4px solid #00BFFF;
-	background-image: url("BackgroundM.jpg");
+	background-image: url("BackgroundS.jpg");
 	background-position: 50% 90%;
 }
 
@@ -40,7 +40,7 @@ a:hover {
 .menu {
   position:fixed;
   top: 82px;
-  background-color: #3366FF;
+  background-color: #CCFFFF;
   height: 30px;
   width: 100%;
 }
@@ -57,7 +57,6 @@ a:hover {
 }
 
 .photo_block {
-  top: 112px;
   background-image: url(images/new_background.jpg);
   width:100%;
   height: 400px;
