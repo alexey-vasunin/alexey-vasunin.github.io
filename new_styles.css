@@ -1,5 +1,22 @@
 .header {
-  background-image: url(); 
+  position:fixed;
+  /*background-image: url();*/
+}
+
+.menu {
+  background-color: #3366FF;
+  height: 30px;
+  width: 100%;
+}
+
+.menu_button {
+  width: 16%;
+  height: 30px;
+  color: black;
+  border-right: 2px solid lightgray;
+  text-align:center;
+  padding-top: 4px;
+  font-size: 18px;
 }
 
 .photo_block {
