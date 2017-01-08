@@ -74,10 +74,11 @@ a:hover {
 
 .helper_div {
   position:absolute;
+  right: 10%;
   float: right;
   width: 35%;
   height:398px;
-  padding-right: 10%;
+  /*padding-right: 10%;*/
 }
 
 .new_me {
