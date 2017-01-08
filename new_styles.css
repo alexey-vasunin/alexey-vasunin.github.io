@@ -37,7 +37,7 @@ a:hover {
 }
 
 .menu {
-  background-color: black;
+  background-color: lightgray;
   height: 45px;
   width: 100%;
 }
@@ -48,6 +48,8 @@ a:hover {
 
 .menu_button {
   background-color: white;
+  border-bottom: 1px solid lightgray;
+  border-radius: 4px;
   float:left;
   width: 14%;
   height: 45px;
@@ -80,7 +82,7 @@ a:hover {
 
 .new_me {
   float:bottom;
-  width:270px;
+  width:268px;
 }
 
 .quote {
