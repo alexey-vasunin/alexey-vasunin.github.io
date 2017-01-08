@@ -15,9 +15,10 @@
 
 .new_me {
   position:absolute;
+	float:left;
   top: 250px;
   /*float:bottom;*/
-  width:470px;
+  width:400px;
 }
 
 .quote {
