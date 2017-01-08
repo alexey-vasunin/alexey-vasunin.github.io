@@ -73,6 +73,7 @@ a:hover {
 }
 
 .helper_div {
+  position:absolute;
   float: right;
   width: 35%;
   height:398px;
@@ -81,7 +82,7 @@ a:hover {
 
 .new_me {
   float:bottom;
-  width:268px;
+  width:264px;
 }
 
 .quote {
