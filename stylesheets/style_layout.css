@@ -44,3 +44,79 @@
 	box-shadow: 10px 10px 10px rgba(0,0,0,0.5);
 	background-color: white;
 }
+
+
+.price_layout {
+	width: 90%;
+	margin: 1%;
+	border: 3px dotted lightgray;
+	border-radius: 8px;
+	padding-left: 1%;
+}
+
+.layout_header {
+	width: 95%;
+	padding-top: 6px;
+}
+
+.layout_basic {
+	width: 95%;
+	background-color: #CCFFFF;
+	height: 100px;
+	border: 1px solid #333333;
+	border-radius: 4px;
+	margin-bottom:2%;
+	opacity: 0.7;
+	padding-left: 1%;
+	padding-top: 2%;
+}
+
+.layout_standard {
+	width: 95%;
+	background-color: #CCFFCC;
+	height: 100px;
+	border: 1px solid #333333;
+	border-radius: 4px;
+	margin-bottom:2%;
+	opacity: 0.7;
+	padding-left: 1%;
+	padding-top: 2%;
+}
+
+.layout_advanced {
+	width: 95%;
+	background-color: #CCFF99;
+	height: 100px;
+	border: 1px solid #333333;
+	border-radius: 4px;
+	margin-bottom:2%;
+	opacity: 0.7;
+	padding-left: 1%;
+	padding-top: 2%;
+}
+
+.layout_max {
+	width: 95%;
+	background-color: #CCFF66;
+	height: 100px;
+	border: 1px solid #333333;
+	border-radius: 4px;
+	margin-bottom:2%;
+	opacity: 0.7;
+	padding-left: 1%;
+	padding-top: 2%;
+}
+
+.string {
+	border-collapse: collapse;
+	width: 100%;
+}
+
+.string td:first-child {
+	width:23%;
+	padding-left:2%;
+}
+
+.string td:last-child {
+	width:15%
+}
