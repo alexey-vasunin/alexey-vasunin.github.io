@@ -37,23 +37,25 @@ a:hover {
 }
 
 .menu {
+  background-color: black;
   height: 45px;
   width: 100%;
 }
 
 .first_button {
-	margin-left: 1%;
+	margin-left: 2%;
 }
 
 .menu_button {
   background-color: white;
   float:left;
-  width: 16%;
+  width: 14%;
   height: 45px;
   color: black;
   border-right: 1px solid lightgray;
   text-align:center;
   padding-top: 6px;
+  margin-right:1%;
   font-size: 18px;
 }
 
