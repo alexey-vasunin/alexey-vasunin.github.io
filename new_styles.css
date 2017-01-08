@@ -36,13 +36,12 @@ a:hover {
 }
 
 .menu {
-  background-color: lightgray;
   height: 45px;
   width: 100%;
 }
 
 .first_button {
-	margin-left: 3%;
+	margin-left: 4%;
 }
 
 .menu_button {
