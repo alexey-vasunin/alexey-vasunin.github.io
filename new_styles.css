@@ -5,7 +5,16 @@
 }
 
 .new_me {
+  float:left;
   padding-left: 20%;
   padding-top:40px;
   width:200px;
+}
+
+.quote {
+  font-family: Book Antiqua;
+  float:right;
+  padding-right: 10%;
+  text-align:left;
+  padding-top: 100px;
 }
