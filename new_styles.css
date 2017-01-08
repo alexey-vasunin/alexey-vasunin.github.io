@@ -70,11 +70,13 @@ a:hover {
   width: 35%;
   height:390px;
   padding-right: 10%;
+  border: 2px solid red;
 }
 
 .new_me {
   float:bottom;
-  width:21%;
+  width:270px;
+  border: 2px solid blue;
 }
 
 .quote {
