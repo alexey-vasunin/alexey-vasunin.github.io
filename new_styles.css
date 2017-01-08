@@ -68,7 +68,7 @@ a:hover {
   float: right;
   width: 35%;
   height:390px;
-  padding-right: 100px;
+  padding-right: 10%;
 }
 
 .new_me {
@@ -83,7 +83,7 @@ a:hover {
   font-style: italic;
   color: white;
   float:left;
-  padding-left: 10%;
+  padding-left: 15%;
   text-align:left;
   padding-top: 100px;
 }
