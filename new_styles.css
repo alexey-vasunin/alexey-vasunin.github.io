@@ -37,9 +37,9 @@ a:hover {
 }
 
 .menu {
-  top: 82px;
-  background-color: #CCFFFF;
-  height: 30px;
+  /*top: 82px;*/
+  background-color: white;
+  height: 45px;
   width: 100%;
 }
 
@@ -54,8 +54,13 @@ a:hover {
   font-size: 18px;
 }
 
+.menu_button:first-child {
+	padding-left: 1%;
+}
+
 .menu_button:hover {
 	color: red;
+	opacity: 0;
 }
 /*--------------------------ОБЩЕЕ----------------------*/
 
