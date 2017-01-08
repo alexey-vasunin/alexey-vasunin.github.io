@@ -10,8 +10,9 @@
 }
 
 .menu_button {
+  float:left;
   width: 16%;
-  height: 30px;
+  height: 29px;
   color: black;
   border-right: 2px solid lightgray;
   text-align:center;
