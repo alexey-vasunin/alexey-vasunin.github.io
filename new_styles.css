@@ -57,7 +57,7 @@ a:hover {
 .menu_button:hover {
 	color: red;
 }
-<!-------------------------------------ОБЩЕЕ------------------------------------------->
+/*--------------------------ОБЩЕЕ----------------------*/
 
 .photo_block {
   background-image: url(images/new_background.jpg);
@@ -93,7 +93,7 @@ a:hover {
 	width: 75%; 
 	padding: 2%; 
 	margin-left: 12%; 
-	margin-top: 63%; 
+	margin-top:63%;
 	box-shadow: 10px 10px 10px rgba(0,0,0,0.5);
 	background-color: white;
 }
