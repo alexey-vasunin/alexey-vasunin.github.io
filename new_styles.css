@@ -54,7 +54,7 @@ a:hover {
   font-size: 18px;
 }
 
-.menu_button:first-child {
+a .menu_button:first-child {
 	padding-left: 1%;
 }
 
