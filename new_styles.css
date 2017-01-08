@@ -37,13 +37,12 @@ a:hover {
 }
 
 .menu {
-  /*top: 82px;*/
-  background-color: white;
   height: 45px;
   width: 100%;
 }
 
 .menu_button {
+  background-color: white;
   float:left;
   width: 16%;
   height: 45px;
@@ -54,7 +53,7 @@ a:hover {
   font-size: 18px;
 }
 
-a .menu_button:first-child {
+.menu a .menu_button:first-child {
 	padding-left: 1%;
 }
 
