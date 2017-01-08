@@ -67,13 +67,12 @@ a:hover {
 .helper_div {
   float: right;
   width: 35%;
-  height:400px;
-border: 1px solid black;
+  height:390px;
 }
 
 .new_me {
   float:bottom;
-  width:250px;
+  width:270px;
 }
 
 .quote {
