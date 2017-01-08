@@ -62,7 +62,7 @@ a:hover {
 
 .menu_button:hover {
 	color: green;
-	border-bottom: 2px solid green;
+	border-top: 4px solid green;
 }
 /*--------------------------ОБЩЕЕ----------------------*/
 
