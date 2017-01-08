@@ -14,8 +14,10 @@
 }
 
 .new_me {
-  float:bottom;
-  width:270px;
+  position:absolute;
+  top: 250px;
+  /*float:bottom;*/
+  width:470px;
 }
 
 .quote {
