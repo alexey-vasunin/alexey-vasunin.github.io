@@ -48,21 +48,21 @@ a:hover {
 .menu_button {
   background-color: white;
   border-bottom: 1px solid lightgray;
-  border-radius: 8px;
+  border-radius: 12px;
   float:left;
   width: 14%;
   height: 45px;
   color: black;
   border-right: 1px solid lightgray;
   text-align:center;
-  padding-top: 10px;
+  padding-top: 14px;
   margin-right:1%;
   font-size: 18px;
 }
 
 .menu_button:hover {
 	color: green;
-	border-bottom: 1 px solid green;
+	border-bottom: 2px solid green;
 }
 /*--------------------------ОБЩЕЕ----------------------*/
 
