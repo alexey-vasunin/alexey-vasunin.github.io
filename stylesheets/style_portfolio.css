@@ -37,7 +37,7 @@
 }
 
 .design_1 {
-	width: 100%;
+	width: 96%;
 	border: 1px solid lightgray;
 	border-radius: 10px;
 	background-color: #EEE8CD;
@@ -45,7 +45,9 @@
 }
 
 .img_design {
-	width:20%;
+	border: 1px solid #00FFFF;
+	border-radius: 5px;
+	width:25%;
 	margin-left:5%;
 	margin-top: 40px;
 }
