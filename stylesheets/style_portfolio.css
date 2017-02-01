@@ -1,8 +1,8 @@
 .new_me {
   position:absolute;
 	float:left;
-  left: 50%;
-  top: 250px;
+  left: 60%;
+  top: 230px;
   /*float:bottom;*/
   width:250px;
 }
@@ -37,8 +37,10 @@
 }
 
 .design_1 {
-	width: 96%;
+	width: 100%;
 	border: 1px solid lightgray;
+	border-radius: 10px;
+	background-color: #EEE8CD;
 }
 
 .img_design {
