@@ -24,7 +24,7 @@
 }
 
 .quote {
-  position:absolute;
+  position: absolute;
   font-family: Book Antiqua;
   font-size: 26px;
   font-weight: bold;
@@ -32,7 +32,7 @@
   color: white;
   float:left;
   padding-left: 18%;
-  text-align:left;
+  text-align: left;
   padding-top: 100px;
 }
 
@@ -48,7 +48,7 @@
 	border: 1px solid #FF7256;
 	border-radius: 8px;
 	width: 28%;
-	margin-left:5%;
+	margin-left: 5%;
 	margin-top: 40px;
 }
 	
