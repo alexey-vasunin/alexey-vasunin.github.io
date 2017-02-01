@@ -1,0 +1,21 @@
+.new_me {
+  position:absolute;
+	float:left;
+  left: 50%;
+  top: 250px;
+  /*float:bottom;*/
+  width:400px;
+}
+
+.quote {
+  position:absolute;
+  font-family: Book Antiqua;
+  font-size: 26px;
+  font-weight: bold;
+  font-style: italic;
+  color: white;
+  float:left;
+  padding-left: 18%;
+  text-align:left;
+  padding-top: 100px;
+}
