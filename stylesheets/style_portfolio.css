@@ -19,3 +19,15 @@
   text-align:left;
   padding-top: 100px;
 }
+
+.design_1 {
+	width: 96%;
+	border: 1px solid lightgray;
+}
+
+.img_design {
+	width:20%;
+	margin-left:5%;
+	margin-top: 40px;
+}
+	
