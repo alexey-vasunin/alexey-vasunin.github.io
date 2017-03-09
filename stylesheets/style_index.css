@@ -1,6 +1,7 @@
 .photo_block {
   background-image: url(../images/new_background.jpg);
-  background-position: 10% 40%;
+  background-size: contain;
+  /*background-position: 10% 40%;*/
   width: 100%;
   height: 400px;
 }
