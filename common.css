@@ -47,13 +47,13 @@ a:hover {
 }
 
 .menu_button {
-  background-color: white;
+  background-color: purple;
+  color: white;
   border-bottom: 1px solid lightgray;
   border-radius: 12px;
   float:left;
   width: 14%;
   height: 45px;
-  color: black;
   border-right: 1px solid lightgray;
   text-align:center;
   padding-top: 14px;
