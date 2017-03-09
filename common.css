@@ -71,12 +71,12 @@ a:hover {
 	height: 100px;
 	background-image: url(../images/footer_background.png);
 	background-position: 0% 0%;
-	color: white;
 	font-weight: bold;
 	font-size: 16px;
 }
 
 .footer_left {
+	color: black;
 	float: left;
 	width: 60%;
 	height: 100px;
@@ -84,6 +84,7 @@ a:hover {
 }
 
 .footer_right {
+	color: white;
 	float: right;
 	width: 39%;
 	height: 100px;
