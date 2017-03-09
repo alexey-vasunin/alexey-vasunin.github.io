@@ -67,7 +67,6 @@ a:hover {
 }
 
 .footer {
-	border: 2px solid green;
 	width: 100%;
 	height: 100px;
 	background-image: url(../images/footer_background.png);
@@ -77,21 +76,19 @@ a:hover {
 }
 
 .footer_left {
-	border: 2px solid red;
 	color: #333333;
 	height: 90px;
 	float: left;
-	width: 60%;
+	width: 50%;
 	height: 100px;
 	text-align: left;
 }
 
 .footer_right {
-	border: 2px solid red;
 	color: #333333;
 	height: 90px;
 	float: right;
-	width: 39%;
+	width: 20%;
 	height: 100px;
 	text-align: right;
 }
