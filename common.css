@@ -74,3 +74,17 @@ a:hover {
 	font-weight: bold;
 	font-size: 16px;
 }
+
+.footer_left {
+	float: left;
+	width: 60%;
+	height: 100px;
+	text-align: left;
+}
+
+.footer_right {
+	float: right;
+	width: 39%;
+	height: 100px;
+	text-align: right;
+}
