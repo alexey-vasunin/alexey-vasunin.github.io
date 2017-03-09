@@ -76,7 +76,7 @@ a:hover {
 }
 
 .footer_left {
-	color: black;
+	color: #333333;
 	float: left;
 	width: 60%;
 	height: 100px;
@@ -84,7 +84,7 @@ a:hover {
 }
 
 .footer_right {
-	color: white;
+	color: #333333;
 	float: right;
 	width: 39%;
 	height: 100px;
