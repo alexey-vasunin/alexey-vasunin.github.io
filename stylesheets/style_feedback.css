@@ -34,10 +34,6 @@ a:hover {
 	height: 80px;
 }
 
-.first_button {
-	margin-left: 5%;
-}
-
 .menu_button {
  	background-color: transparent;
 	color: white;
@@ -48,6 +44,11 @@ a:hover {
   	padding-top: 20px;
   	margin-right:1%;
         font-size: 14px;
+}
+
+.first_button {
+	margin-left: 5%;
+	margin-right: 0%;
 }
 
 .modelling_button {
