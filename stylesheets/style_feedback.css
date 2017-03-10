@@ -39,16 +39,13 @@ a:hover {
 .menu_button {
   background-color: transparent;
   color: white;
-  border-bottom: 1px solid black;
-  border-radius: 20px;
   float:left;
-  width: 10%;
-  height: 45px;
-  border-right: 1px solid black;
+  width: 15%;
+  height: 78px;
   text-align:center;
-  padding-top: 14px;
+  padding-top: 1px;
   margin-right:1%;
-  font-size: 18px;
+  font-size: 12px;
 }
 
 .menu_button:hover {
