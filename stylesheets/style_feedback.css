@@ -1,5 +1,5 @@
 body {
-	background-image: url("images/BackgroundTest.jpg");
+	background-image: url("../images/BackgroundTest.jpg");
 	background-attachment: fixed;
 	margin: 0px;
 	font-family: "PT Sans", sans-serif;
@@ -13,7 +13,7 @@ a:hover {
 .header {
 	width:100%;
 	height:82px;
-	background-image: url("images/BackgroundTest.jpg");
+	background-image: url("../images/BackgroundTest.jpg");
 	background-position: 50% 80%;
 }
 
