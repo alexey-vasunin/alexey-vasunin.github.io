@@ -20,19 +20,40 @@ a:hover {
 .header_left {
 	margin-left: 5%;
 	float: left;
-	width: 68%;
+	width: 30%;
 	height: 80px;
 	text-align: left;
 }
 
-.header_right {
-	padding-top: 10px;
+.menu {
 	margin-right: 40px;
 	float: right;
-	width: 20%;
-	height: 70px;
+	width: 60%;
+	height: 80px;
+}
+
+.first_button {
+	margin-left: 5%;
+}
+
+.menu_button {
+  background-color: transparent;
+  color: white;
+  border-bottom: 1px solid black;
+  border-radius: 20px;
+  float:left;
+  width: 10%;
+  height: 45px;
+  border-right: 1px solid black;
+  text-align:center;
+  padding-top: 14px;
+  margin-right:1%;
+  font-size: 18px;
+}
+
+.menu_button:hover {
 	color: black;
-	text-align: right;
+	border-top: 2px solid black;
 }
 
 .footer {
