@@ -26,6 +26,7 @@ a:hover {
 }
 
 .menu {
+	position: absolute;
 	margin-right: 40px;
 	float: right;
 	width: 60%;
@@ -37,7 +38,6 @@ a:hover {
 }
 
 .menu_button {
- 	position: absolute;
  	background-color: transparent;
 	color: white;
  	float:left;
