@@ -13,7 +13,7 @@ a:hover {
 .header {
 	width:100%;
 	height:82px;
-	background-image: url("../images/BackgroundTest.jpg");
+	/*background-image: url("../images/BackgroundTest.jpg");*/
 	background-position: 50% 80%;
 }
 
@@ -58,14 +58,17 @@ a:hover {
 	text-align: right;
 }
 
+.additional {
+	width: 25%;
+	height: 100px;
+	margin-top: 140px;
+}
+
 .main {
-	width: 75%; 
+	width: 50%
 	padding: 2%; 
-	margin-left: 10%; 
-	margin-top: 3%;
-	margin-bottom: 4%;
-	box-shadow: 10px 10px 10px rgba(0,0,0,0.5);
-	background-color: white;
+	margin-right: 10%;
+	margin-top: 40px;
 }
 
 form[name="email"] {
