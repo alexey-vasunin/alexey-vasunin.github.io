@@ -50,6 +50,11 @@ a:hover {
         font-size: 14px;
 }
 
+.modelling_button {
+	margin-right:2%;
+	margin-left:2%;
+}
+
 .menu_button:hover {
 	color: black;
 	border-top: 4px solid black;
