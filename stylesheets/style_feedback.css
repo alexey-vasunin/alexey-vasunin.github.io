@@ -59,6 +59,10 @@ a:hover {
 	width: 30px;
 }
 
+.phone_logo {
+	width: 20px;
+}
+
 .footer {
 	position: absolute;
 	bottom: 0px;
