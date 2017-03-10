@@ -59,13 +59,15 @@ a:hover {
 }
 
 .additional {
+	float: left;
 	width: 25%;
 	height: 100px;
 	margin-top: 140px;
 }
 
 .main {
-	width: 50%
+	width: 50%;
+	float: right;
 	padding: 2%; 
 	margin-right: 10%;
 	margin-top: 40px;
