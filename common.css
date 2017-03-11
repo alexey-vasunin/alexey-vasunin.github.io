@@ -1,5 +1,5 @@
 body {
-	background-image: url("images/BackgroundTest.jpg");
+	background-image: url("../images/BackgroundTest.jpg");
 	background-attachment: fixed;
 	margin: 0px;
 	font-family: "PT Sans", sans-serif;
@@ -13,60 +13,58 @@ a:hover {
 .header {
 	width:100%;
 	height:82px;
-	background-image: url("images/BackgroundTest.jpg");
+	/*background-image: url("../images/BackgroundTest.jpg");*/
 	background-position: 50% 80%;
 }
 
 .header_left {
 	margin-left: 5%;
 	float: left;
-	width: 68%;
+	width: 30%;
 	height: 80px;
 	text-align: left;
 }
 
-.header_right {
-	padding-top: 10px;
+.menu {
+	position: absolute;
+	left: 35%;
 	margin-right: 40px;
 	float: right;
-	width: 20%;
-	height: 70px;
-	color: black;
-	text-align: right;
+	width: 60%;
+	height: 80px;
 }
 
-.menu {
-  background-image: url("images/BackgroundTest.jpg");
-  background-position: 50% 84%;
-  height: 45px;
-  width: 100%;
+.menu_button {
+ 	background-color: transparent;
+	color: white;
+ 	float:left;
+ 	width: 14%;
+	height: 78px;
+  	text-align: center;
+  	padding-top: 20px;
+  	margin-right:1%;
+        font-size: 14px;
 }
 
 .first_button {
 	margin-left: 5%;
+	margin-right: 0%;
 }
 
-.menu_button {
-  background-color: purple;
-  color: white;
-  border-bottom: 1px solid black;
-  border-radius: 20px;
-  float:left;
-  width: 14%;
-  height: 45px;
-  border-right: 1px solid black;
-  text-align:center;
-  padding-top: 14px;
-  margin-right:1%;
-  font-size: 18px;
+.modelling_button {
+	margin-right:2%;
+	margin-left:2%;
 }
 
 .menu_button:hover {
 	color: black;
-	border-top: 2px solid black;
+	border-top: 4px solid black;
 }
 
 .footer {
+	position: absolute;
+	bottom: 0px;
+	left: 0px;
 	width: 100%;
 	height: 100px;
 	background-image: url(../images/footer_background.png);
@@ -88,3 +86,4 @@ a:hover {
 	width: 20%;
 	text-align: right;
 }
+
