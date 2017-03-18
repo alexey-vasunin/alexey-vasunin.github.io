@@ -1,0 +1,31 @@
+.csgo, 
+.other_hammer_stuff {
+	margin: auto;
+	margin-bottom: 10px;
+	padding-left: 40px;
+	padding-top: 10px;
+	width: 90%;
+	height: 170px;
+	border: 2px dotted lightgray;
+	background-color: white;
+	border-radius: 10px;
+}
+
+.csgo span,
+.other_hammer_stuff span {
+	font-family: "Tahoma";
+	font-size: 16px;
+	color: blue;
+}
+
+.csgo img,
+.other_hammer_stuff img {
+	margin-top: 10px;
+	width: 150px;
+	margin-right: 60px;
+}
+
+.csgo img:last-child,
+.other_hammer_stuff img:last-child {
+	margin-right: 0px;
+}
