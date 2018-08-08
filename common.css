@@ -103,6 +103,7 @@ a:hover {
 }
  
 #map {
-	width: 660px;
-	height: 300px;
+	margin: 10%;
+	width: 900px;
+	height: 600px;
 }
